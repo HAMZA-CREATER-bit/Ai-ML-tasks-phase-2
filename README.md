@@ -111,8 +111,4 @@ streamlit run task3_pdf_qa.py
 
 Python | PyTorch | HuggingFace Transformers | scikit-learn | Pandas | LangChain | FAISS | Streamlit
 
----
 
-If you want, I can also **create a super compact version of this README** in **under 350 words** so it looks professional and clean on GitHub — perfect for portfolio showcase.
-
-Do you want me to do that?
